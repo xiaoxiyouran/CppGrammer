@@ -1,0 +1,2 @@
+Options: 
+CMake: 3.8.2@/home/xi/20170930ubuntu16.04所有使用技巧文档库/20171002CLion安装/clion-2017.2.3/bin/cmake/bin/cmake

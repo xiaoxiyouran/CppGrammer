@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/CppGrammer.dir/main.cpp.o CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o  -o CppGrammer 
