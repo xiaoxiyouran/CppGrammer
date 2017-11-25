@@ -3,5 +3,5 @@ project(CppGrammer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp 18-NewC11standard/newc11standard.h 18-NewC11standard/newc11standard.cpp 18-NewC11standard/18-test.cpp 17-InputOutputFile/inputOutputFile.h 17-InputOutputFile/inputOutputFile.cpp)
+set(SOURCE_FILES main.cpp 18-NewC11standard/newc11standard.h 18-NewC11standard/newc11standard.cpp 18-NewC11standard/18-test.cpp 17-InputOutputFile/inputOutputFile.h 17-InputOutputFile/inputOutputFile.cpp include/define.h)
 add_executable(CppGrammer ${SOURCE_FILES})

@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/xi/CppGrammer/17-InputOutputFile/inputOutputFile.cpp" "/home/xi/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o"
-  "/home/xi/CppGrammer/18-NewC11standard/18-test.cpp" "/home/xi/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o"
-  "/home/xi/CppGrammer/18-NewC11standard/newc11standard.cpp" "/home/xi/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o"
-  "/home/xi/CppGrammer/main.cpp" "/home/xi/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/main.cpp.o"
+  "/Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o"
+  "/Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/18-test.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o"
+  "/Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/newc11standard.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o"
+  "/Users/cookie/Downloads/CppGrammer/CppGrammer/main.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
