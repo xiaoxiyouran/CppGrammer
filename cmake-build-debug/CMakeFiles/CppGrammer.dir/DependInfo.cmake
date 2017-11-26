@@ -7,6 +7,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o"
   "/Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/18-test.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o"
   "/Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/newc11standard.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o"
+  "/Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/lib/define.cpp.o"
+  "/Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/lib/utility.cpp.o"
   "/Users/cookie/Downloads/CppGrammer/CppGrammer/main.cpp" "/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles/CppGrammer.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

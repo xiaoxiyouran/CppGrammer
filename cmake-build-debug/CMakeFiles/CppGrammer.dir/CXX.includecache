@@ -32,6 +32,36 @@ map
 
 /Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/newc11standard.cpp
 
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
+cstdlib
+-
+
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h
+string
+-
+bitset
+-
+algorithm
+-
+sstream
+-
+iostream
+-
+vector
+-
+cmath
+-
+define.h
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
+
+/Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp
+../include/define.h
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
+
+/Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp
+../include/utility.h
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h
+
 /Users/cookie/Downloads/CppGrammer/CppGrammer/main.cpp
 iostream
 -
@@ -39,6 +69,8 @@ sstream
 -
 vector
 -
+include/utility.h
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h
 17-InputOutputFile/inputOutputFile.h
 /Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.h
 

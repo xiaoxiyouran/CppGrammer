@@ -204,6 +204,60 @@ CppGrammer/fast:
 	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.s
 .PHONY : 18-NewC11standard/newc11standard.cpp.s
 
+lib/define.o: lib/define.cpp.o
+
+.PHONY : lib/define.o
+
+# target to build an object file
+lib/define.cpp.o:
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/define.cpp.o
+.PHONY : lib/define.cpp.o
+
+lib/define.i: lib/define.cpp.i
+
+.PHONY : lib/define.i
+
+# target to preprocess a source file
+lib/define.cpp.i:
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/define.cpp.i
+.PHONY : lib/define.cpp.i
+
+lib/define.s: lib/define.cpp.s
+
+.PHONY : lib/define.s
+
+# target to generate assembly for a file
+lib/define.cpp.s:
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/define.cpp.s
+.PHONY : lib/define.cpp.s
+
+lib/utility.o: lib/utility.cpp.o
+
+.PHONY : lib/utility.o
+
+# target to build an object file
+lib/utility.cpp.o:
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/utility.cpp.o
+.PHONY : lib/utility.cpp.o
+
+lib/utility.i: lib/utility.cpp.i
+
+.PHONY : lib/utility.i
+
+# target to preprocess a source file
+lib/utility.cpp.i:
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/utility.cpp.i
+.PHONY : lib/utility.cpp.i
+
+lib/utility.s: lib/utility.cpp.s
+
+.PHONY : lib/utility.s
+
+# target to generate assembly for a file
+lib/utility.cpp.s:
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/utility.cpp.s
+.PHONY : lib/utility.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -249,6 +303,12 @@ help:
 	@echo "... 18-NewC11standard/newc11standard.o"
 	@echo "... 18-NewC11standard/newc11standard.i"
 	@echo "... 18-NewC11standard/newc11standard.s"
+	@echo "... lib/define.o"
+	@echo "... lib/define.i"
+	@echo "... lib/define.s"
+	@echo "... lib/utility.o"
+	@echo "... lib/utility.i"
+	@echo "... lib/utility.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

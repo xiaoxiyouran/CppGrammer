@@ -153,12 +153,62 @@ CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o.provides: CMa
 CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o.provides.build: CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o
 
 
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.o: CMakeFiles/CppGrammer.dir/flags.make
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.o: ../lib/utility.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CppGrammer.dir/lib/utility.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppGrammer.dir/lib/utility.cpp.o -c /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp
+
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppGrammer.dir/lib/utility.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp > CMakeFiles/CppGrammer.dir/lib/utility.cpp.i
+
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppGrammer.dir/lib/utility.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp -o CMakeFiles/CppGrammer.dir/lib/utility.cpp.s
+
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.requires:
+
+.PHONY : CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.requires
+
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.provides: CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.provides.build
+.PHONY : CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.provides
+
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.provides.build: CMakeFiles/CppGrammer.dir/lib/utility.cpp.o
+
+
+CMakeFiles/CppGrammer.dir/lib/define.cpp.o: CMakeFiles/CppGrammer.dir/flags.make
+CMakeFiles/CppGrammer.dir/lib/define.cpp.o: ../lib/define.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CppGrammer.dir/lib/define.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppGrammer.dir/lib/define.cpp.o -c /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp
+
+CMakeFiles/CppGrammer.dir/lib/define.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppGrammer.dir/lib/define.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp > CMakeFiles/CppGrammer.dir/lib/define.cpp.i
+
+CMakeFiles/CppGrammer.dir/lib/define.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppGrammer.dir/lib/define.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp -o CMakeFiles/CppGrammer.dir/lib/define.cpp.s
+
+CMakeFiles/CppGrammer.dir/lib/define.cpp.o.requires:
+
+.PHONY : CMakeFiles/CppGrammer.dir/lib/define.cpp.o.requires
+
+CMakeFiles/CppGrammer.dir/lib/define.cpp.o.provides: CMakeFiles/CppGrammer.dir/lib/define.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CppGrammer.dir/build.make CMakeFiles/CppGrammer.dir/lib/define.cpp.o.provides.build
+.PHONY : CMakeFiles/CppGrammer.dir/lib/define.cpp.o.provides
+
+CMakeFiles/CppGrammer.dir/lib/define.cpp.o.provides.build: CMakeFiles/CppGrammer.dir/lib/define.cpp.o
+
+
 # Object files for target CppGrammer
 CppGrammer_OBJECTS = \
 "CMakeFiles/CppGrammer.dir/main.cpp.o" \
 "CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o" \
 "CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o" \
-"CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o"
+"CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o" \
+"CMakeFiles/CppGrammer.dir/lib/utility.cpp.o" \
+"CMakeFiles/CppGrammer.dir/lib/define.cpp.o"
 
 # External object files for target CppGrammer
 CppGrammer_EXTERNAL_OBJECTS =
@@ -167,9 +217,11 @@ CppGrammer: CMakeFiles/CppGrammer.dir/main.cpp.o
 CppGrammer: CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o
 CppGrammer: CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o
 CppGrammer: CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o
+CppGrammer: CMakeFiles/CppGrammer.dir/lib/utility.cpp.o
+CppGrammer: CMakeFiles/CppGrammer.dir/lib/define.cpp.o
 CppGrammer: CMakeFiles/CppGrammer.dir/build.make
 CppGrammer: CMakeFiles/CppGrammer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CppGrammer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/cookie/Downloads/CppGrammer/CppGrammer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable CppGrammer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CppGrammer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -181,6 +233,8 @@ CMakeFiles/CppGrammer.dir/requires: CMakeFiles/CppGrammer.dir/main.cpp.o.require
 CMakeFiles/CppGrammer.dir/requires: CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o.requires
 CMakeFiles/CppGrammer.dir/requires: CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o.requires
 CMakeFiles/CppGrammer.dir/requires: CMakeFiles/CppGrammer.dir/17-InputOutputFile/inputOutputFile.cpp.o.requires
+CMakeFiles/CppGrammer.dir/requires: CMakeFiles/CppGrammer.dir/lib/utility.cpp.o.requires
+CMakeFiles/CppGrammer.dir/requires: CMakeFiles/CppGrammer.dir/lib/define.cpp.o.requires
 
 .PHONY : CMakeFiles/CppGrammer.dir/requires
 

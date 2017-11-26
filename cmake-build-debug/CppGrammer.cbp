@@ -100,6 +100,15 @@
 		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h">
 			<Option target="CppGrammer"/>
 		</Unit>
+		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h">
+			<Option target="CppGrammer"/>
+		</Unit>
+		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp">
+			<Option target="CppGrammer"/>
+		</Unit>
+		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp">
+			<Option target="CppGrammer"/>
+		</Unit>
 		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/main.cpp">
 			<Option target="CppGrammer"/>
 		</Unit>

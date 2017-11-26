@@ -8,6 +8,15 @@ CMakeFiles/CppGrammer.dir/18-NewC11standard/18-test.cpp.o
  /Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/18-test.cpp
 CMakeFiles/CppGrammer.dir/18-NewC11standard/newc11standard.cpp.o
  /Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/newc11standard.cpp
+CMakeFiles/CppGrammer.dir/lib/define.cpp.o
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/define.cpp
+CMakeFiles/CppGrammer.dir/lib/utility.cpp.o
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/lib/utility.cpp
 CMakeFiles/CppGrammer.dir/main.cpp.o
  /Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.h
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
+ /Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h
  /Users/cookie/Downloads/CppGrammer/CppGrammer/main.cpp
