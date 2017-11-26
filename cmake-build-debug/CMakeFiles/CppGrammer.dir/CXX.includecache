@@ -6,9 +6,19 @@
 
 #IncludeRegexTransform: 
 
+/Users/cookie/Downloads/CppGrammer/CppGrammer/16-StringClassAndSTL/shared_ptr.h
+iostream
+-
+string
+-
+memory
+-
+
 /Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.cpp
 inputOutputFile.h
 /Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.h
+../include/define.h
+/Users/cookie/Downloads/CppGrammer/CppGrammer/include/define.h
 
 /Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.h
 iostream
@@ -26,6 +36,10 @@ fstream
 string
 -
 map
+-
+cmath
+-
+fstream
 -
 
 /Users/cookie/Downloads/CppGrammer/CppGrammer/18-NewC11standard/18-test.cpp
@@ -71,6 +85,6 @@ vector
 -
 include/utility.h
 /Users/cookie/Downloads/CppGrammer/CppGrammer/include/utility.h
-17-InputOutputFile/inputOutputFile.h
-/Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.h
+16-StringClassAndSTL/shared_ptr.h
+/Users/cookie/Downloads/CppGrammer/CppGrammer/16-StringClassAndSTL/shared_ptr.h
 

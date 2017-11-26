@@ -82,6 +82,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/16-StringClassAndSTL/auto_ptr.h">
+			<Option target="CppGrammer"/>
+		</Unit>
+		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/16-StringClassAndSTL/copy_ostream_iterator_vectorReveroutput.h">
+			<Option target="CppGrammer"/>
+		</Unit>
+		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/16-StringClassAndSTL/shared_ptr.h">
+			<Option target="CppGrammer"/>
+		</Unit>
 		<Unit filename="/Users/cookie/Downloads/CppGrammer/CppGrammer/17-InputOutputFile/inputOutputFile.cpp">
 			<Option target="CppGrammer"/>
 		</Unit>

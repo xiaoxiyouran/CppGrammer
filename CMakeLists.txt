@@ -13,5 +13,5 @@ set(SOURCE_FILES
         include/define.h include/utility.h
         lib/utility.cpp
         lib/define.cpp
-        )
+        16-StringClassAndSTL/copy_ostream_iterator_vectorReveroutput.h 16-StringClassAndSTL/auto_ptr.h 16-StringClassAndSTL/shared_ptr.h)
 add_executable(CppGrammer ${SOURCE_FILES})
